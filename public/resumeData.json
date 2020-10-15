@@ -43,9 +43,10 @@
     "skillmessage": "Javascript , Html , css , React js , Node js , express , mongodb , git , firebase",
     "education": [
       {
-        "school": "Kendriya vidyalaya Aligarh",
-        "degree": "National Institute of Technology,Agartala",
+        "school": "National Institute of Technology,Agartala",
+
         "graduated": "Batch of 2012-16,",
+        "degree": "",
         "description": "B.tech,Production Engineering"
       }
     ],
@@ -106,7 +107,7 @@
         "title": "Netflix React clone",
         "category": "Netflix Clone built with React ,firebase,api ",
         "image": "netflixreact.png",
-        "url": "netflix-clone-f1c9c.web.app/"
+        "url": "https://netflix-clone-f1c9c.web.app/"
       },
       {
         "title": "Covid Tracker ",
