@@ -120,6 +120,12 @@
         "category": "Covid Tracker built with ReactJS,firebase",
         "image": "covid.png",
         "url": "https://covid-19-tracker-66aae.web.app/"
+      },
+      {
+        "title": "Instagram-MERN ",
+        "category": "Instagram fullstack built with reactjs,nodejs,mongodb,heroku",
+        "image": "insta.png",
+        "url": "https://instagram-fullstack.herokuapp.com/"
       }
     ]
   },
